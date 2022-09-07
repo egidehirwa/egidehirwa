@@ -3,10 +3,17 @@
 #### I am an aspiring software developer from Belgium.
 I am learning how to code in public so you can follow my progress on twitter or via articles posted on my hashnode blog.
 
+## My Focus
+- 🌱 I’m currently learning JavaScript 
+
 Skills: HTML / CSS / Webflow / WordPress
 
-- 🌱 I’m currently learning JavaScript 
-- ⚡ Fun fact: I can solve the Rubik's Cube in less than 15s 
+## My Skills
+
+<img src='https://github.com/egidehirwa/egidehirwa/blob/main/css.png' alt='css' height='30'>
+
+## Random Things About Me
+- ⚡ I can solve the Rubik's Cube in less than 15s 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/egidehirwa)
