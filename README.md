@@ -1,10 +1,10 @@
 ## Hi there 👋, my name is Egide
 
-I am learning how to code in public so you can follow my progress on twitter or via articles posted on my hashnode <a href='https://egidehirwa.hashnode.dev/'>blog</a>.
+I am learning how to code in public so you can follow my progress on twitter.
 
 
 ## My Focus
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Web Dev at Becode.
 
 
 ## My Skills
