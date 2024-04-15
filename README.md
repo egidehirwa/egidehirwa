@@ -4,7 +4,7 @@ I am learning how to code in public so you can follow my progress on twitter.
 
 
 ## My Focus
-- 🌱 I’m currently learning Web Dev at Becode.
+- 🌱 I’m currently learning Web Dev at Hack Your Future.
 
 
 ## My Skills
@@ -15,7 +15,7 @@ src='https://github.com/egidehirwa/egidehirwa/blob/main/.github/webflow.png' alt
 
 ## Random Things About Me
 
-- I can solve the Rubik's Cube in less than 15s 
+- I can solve the Rubik's Cube in less than 20s 
 - I speak English, French, Swahili and Kinyarwanda
 - I have been running daily since January 1st 2020
 
