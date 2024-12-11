@@ -1,10 +1,10 @@
 ## Hi there 👋, my name is Egide
 
-I am learning how to code in public so you can follow my progress on twitter.
+I just finished my and l'm looking for an internship.
 
 
 ## My Focus
-- 🌱 I’m currently learning Web Dev at Hack Your Future.
+- 🌱 Training what l have learned.
 
 ## Random Things About Me
 
